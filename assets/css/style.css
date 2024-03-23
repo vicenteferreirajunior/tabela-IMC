@@ -38,6 +38,7 @@ form input{
     font-size: 24px;
     height: 50px;
     padding: 0 20px;
+    margin-top: 4%;
 }
 
 form input:focus {
@@ -52,7 +53,7 @@ form button{
     font-weight: bold;
     height: 43px;
     cursor: pointer;
-    margin-top: 8px;
+    margin-top: 18%;
 }
 
 form button:hover{
